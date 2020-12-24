@@ -1,0 +1,23 @@
+Test Plan:
+- tested with the try catch blocks in the constructors and some methods, allowing any exceptions to be thrown to inform the user of thier mistake
+- use the terminal to test correctness of values going to GUI
+
+The test focuses on the major components of the program and to see if the program is running as expected, the terminal is used to
+print out the expected results of each action the user does. This is to see if the there's a problem with the GUI implementation or the
+actual functionality of a segment of code. 
+
+this includes:
+- the program only accepts the correct formatting for productID, descriptions, year inputs and allows the user to input the correct format
+- the search coditions such that:
+    - the given element is not on the list
+    - the given element is at the start of the list
+    - the given element is at the end of the list
+    - the given element is somewhere on the list
+    - the given description is on the list but the given year/product id is not on the list
+
+- check for if the file reading and writing are working at the start and end of the program (printed to the terminal and additional window pop-up for errors in writing to file)
+
+
+
+
+
