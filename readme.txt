@@ -5,18 +5,18 @@ Project: CIS2430 A3
 run: gradle build                              
 
     *** if file in included:                    (you have to copy the list.txt file to the same folder as the one below)
-        java eStoreSearch.Menu list.txt         (in the folder jraguram_a3/build/classes/java/main) 
+        java eStoreSearch.Menu list.txt         (in the folder EStore/build/classes/java/main) 
                                                 
 
     or run (after gradle build) with:
-        gradle run --args=list.txt              (in jraguram_a3)
+        gradle run --args=list.txt              (in EStore)
 
 
     *** if file not included:
-        java eStoreSearch.Menu                 (in the folder jraguram_a3/build/classes/java/main) 
+        java eStoreSearch.Menu                 (in the folder EStore/build/classes/java/main) 
 
     or run (after gradle build) with:
-        gradle run                             (in jraguram_a3)
+        gradle run                             (in EStore)
                    
 
 
