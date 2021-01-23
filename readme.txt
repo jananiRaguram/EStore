@@ -1,5 +1,4 @@
-Author: Janani Raguram 1092071
-Project: CIS2430 A3
+Author: Janani Raguram
 
 
 run: gradle build                              
